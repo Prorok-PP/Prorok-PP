@@ -1,4 +1,4 @@
-# Hello, I'm Andrii 
+# Hello
 ### AI Automation Engineer | n8n & AI Agents
 
 I help businesses save time, reduce manual work and improve their workflows
