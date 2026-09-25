@@ -1,10 +1,10 @@
-# Hi, I'm Andrii 👋
+# Hello, I'm Andrii 
 ### AI Automation Engineer | n8n & AI Agents
 
 I help businesses save time, reduce manual work and improve their workflows
 with AI-powered automation: sales, customer support, CRM and reporting.
 
-## 🛠 What I build
+## § What I build:
 - **AI agents and chatbots**: Telegram bots, voice AI agents, AI assistants
 - **CRM and lead automation**: Zoho CRM, lead qualification, follow-ups
 - **Support automation**: email triage, AI ticket classification, SLA escalation
@@ -19,11 +19,11 @@ with AI-powered automation: sales, customer support, CRM and reporting.
 ![Klaviyo](https://img.shields.io/badge/Klaviyo-222222?style=flat-square)
 ![AssemblyAI](https://img.shields.io/badge/AssemblyAI-2545D3?style=flat-square)
 
-## 🌍 Languages
+## § Languages:
 Ukrainian · Russian · English · Italian · Spanish · Slovak
 
-## 🎓 Learning
+## § Learning:
 GoIT: AI Automator (243 hours), 2026
 
-## 📫 Let's work together
+## § Let's work together:
 [LinkedIn](https://www.linkedin.com/in/sh-dev-a-ai/) · [Upwork](https://www.upwork.com/freelancers/~01c28bbcb1e0c08170?mp_source=share) · [Fiverr](https://www.fiverr.com/andrea_shevchuk/buying?source=avatar_menu_profile) · [Freelancehunt](https://freelancehunt.com/freelancer/AndreaSh.html) · [Portfolio](https://jasper-spur-64b.notion.site/Andrea-Shevchuk-3746e46a716e80ae90e0f73434dbfb92?source=copy_link)
